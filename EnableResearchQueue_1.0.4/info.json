@@ -1,0 +1,11 @@
+{
+  "name": "EnableResearchQueue",
+  "version": "1.0.4",
+  "factorio_version": "1.1",
+  "title": "Enable Research Queue",
+  "author": "Fentus",
+  "contact": "support@fentusgames.com",
+  "homepage": "https://fentusgames.com/",
+  "dependencies": ["base >= 1.1"],
+  "description": "Enables the research queue with out disabling achivments. Can be removed after used. /enableresearchqueue"
+}
